@@ -40,6 +40,7 @@ This project has a UI Documentation of reusable components, allowing to test the
    <img src="docs/go-marketplace.gif" />
 </p>
 
+
 # :construction_worker: Installation
 
 **You need to install [YARN](https://yarnpkg.com/) and [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) + [COCOAPODS](https://cocoapods.org/)or [EXPO](https://expo.io/) first, then in order to clone the project via HTTPS, run this command:**
