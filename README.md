@@ -37,7 +37,7 @@
 This project has a UI Documentation of reusable components, allowing to test them individually.
 
 <p align="left">
-   <img src="docs/go-marketplace.png" />
+   <img src="docs/go-marketplace.gif" />
 </p>
 
 # :construction_worker: Installation
