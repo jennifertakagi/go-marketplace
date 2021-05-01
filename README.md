@@ -112,7 +112,7 @@ Features:
    ```sh
    git clone https://github.com/jennifertakagi/go-marketplace.git
    ```
-2. Install packages on **backend** and **web** folders
+2. Install packages
    ```sh
    yarn | npm install
    ```
