@@ -124,7 +124,7 @@ Features:
   ```sh
    yarn json-server server.json -p 3333 | npm run json-server server.json -p 3333
    ```
-4. Run the local environment
+5. Run the local environment
    ```sh
    yarn ios | android
    ```
