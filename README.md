@@ -79,6 +79,7 @@ Features:
 * [React Native](https://reactnative.dev/)
 * [Styled-Components](https://styled-components.com/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [Axios](https://github.com/axios/axios)
 
 
 
@@ -162,7 +163,6 @@ Jennifer Takagi - [@jennitakagi](https://twitter.com/jennitakagi)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Axios](https://github.com/axios/axios)
 * [JSON Server](https://github.com/typicode/json-server)
 * [ESLint](https://eslint.org/)
 * [Prettier](https://prettier.io/)
