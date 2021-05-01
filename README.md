@@ -120,6 +120,10 @@ Features:
    ```sh
    pod instal
    ```
+4. Run JSON server to mock database
+  ```sh
+   yarn json-server server.json -p 3333 | npm run json-server server.json -p 3333
+   ```
 4. Run the local environment
    ```sh
    yarn ios | android
